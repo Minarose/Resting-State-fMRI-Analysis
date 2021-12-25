@@ -1,1 +1,1 @@
-# fMRI-Connectivity-Analysis
+# Resting-State-fMRI-Analysis
